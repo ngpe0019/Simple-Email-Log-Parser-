@@ -1,0 +1,9 @@
+🧩 PROJECT: Email Log Parser
+
+Concepts covered: string methods, loops, conditionals, lists
+
+📝 Description
+
+Given a mailbox file, extract all the lines starting with From (note the space). Print the sender’s email and the day of the week. Finally, print the count of such lines.
+
+📁 Sample file — mbox-short.txt
